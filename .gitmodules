@@ -1,0 +1,9 @@
+[submodule "blitter"]
+	path = blitter
+	url = https://github.com/asm128/blitter
+[submodule "llc"]
+	path = llc
+	url = https://github.com/asm128/llc
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/asm128/zlib
