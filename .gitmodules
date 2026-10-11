@@ -7,3 +7,6 @@
 [submodule "zlib"]
 	path = zlib
 	url = https://github.com/asm128/zlib
+[submodule "bigbro"]
+	path = bigbro
+	url = https://github.com/asm128/bigbro
