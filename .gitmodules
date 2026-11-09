@@ -10,3 +10,12 @@
 [submodule "llc_data"]
 	path = llc_data
 	url = https://github.com/asm128/llc_data
+[submodule "gpk"]
+	path = gpk
+	url = https://github.com/asm128/gpk
+[submodule "gpk_data"]
+	path = gpk_data
+	url = https://github.com/asm128/gpk_data
+[submodule "blitter_data"]
+	path = blitter_data
+	url = https://github.com/asm128/blitter_data
